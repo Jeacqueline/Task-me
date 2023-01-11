@@ -1,6 +1,6 @@
-
-let actualTime = document.getElementById("currentDay");
-actualTime.innerHTML = dayjs().format("dddd, MMMM D.");
+//To show current date
+let actualDate = document.getElementById("currentDay");
+actualDate.innerHTML = dayjs().format("dddd, MMMM D.");
 
 
 $(function () {

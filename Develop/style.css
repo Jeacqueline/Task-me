@@ -1,13 +1,20 @@
 body {
   background-color:#000000ab;
-  font-family: 'Open Sans', sans-serif;
+  font-family:'Courier New', Courier, monospace;
   font-size: 16px;
   color: #ffffff;
+}
+h1{
+  font-style: italic;
+  font-weight: 800;
 }
 h1, .lead {
   display: flex;
   align-items: center;
   justify-content: center;
+}
+#currentDay{
+  font-weight: 700;
 }
 textarea {
   background: transparent;
@@ -37,17 +44,17 @@ textarea {
 }
 
 .past {
-  background-color: #d3d3d3;
+  background-color: #848282;
   color: white;
 }
 
 .present {
-  background-color: #ff6961;
+  background-color: #c53129;
   color: white;
 }
 
 .future {
-  background-color: #77dd77;
+  background-color: #50cb50;
   color: white;
 }
 
@@ -55,7 +62,7 @@ textarea {
   border-left: 1px solid black;
   border-top-right-radius: 15px;
   border-bottom-right-radius: 15px;
-  background-color: #06aed5;
+  background-color: #115d6e;
   color: white;
 }
 
