@@ -37,4 +37,4 @@ And I used this pages to undestood better some things to can deploy my Challenge
 - [GitHub/ Jeacqueline's Repository](https://github.com/Jeacqueline/Task-me)
 
 
-- [GitHub/ Jeacqueline/ Deployed Task-me]( )
+- [GitHub/ Jeacqueline/ Deployed Task-me]( https://jeacqueline.github.io/Task-me/ )
